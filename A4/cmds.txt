@@ -1,0 +1,2 @@
+test/W4.txt test/W5.txt test/W6.txt test/W7.txt
+test/W8.txt
